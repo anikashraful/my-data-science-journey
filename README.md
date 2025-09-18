@@ -8,9 +8,9 @@ Welcome! This repo tracks my 12-month journey to become a data scientist, follow
 - **Phases**:
   - **Phase 1 (Months 1-4)**: Foundations (Python, Git, SQL, Math/Stats)
   - **Phase 2 (Months 5-8)**: Intermediate (Data Viz, ML Basics, Portfolio Project)
-  - **Phase 3 (Months 9-12)**: Advanced (DL, Specialization, Capstone & Job Prep)
+  - **Phase 3 (Months 9-12)**: Advanced (DL, Specialization, Capstone)
 
-Current progress: [Update with a badge or status]
+Current progress: 
 
 ## Progress Tracker
 | Phase | Month | Status | Key Project | Notes |
@@ -26,7 +26,6 @@ Current progress: [Update with a badge or status]
 | 3 | 11: Specialization | ⏳ Not Started | Sentiment Analyzer (NLP track) | BERT fine-tuning |
 | 3 | 12: Capstone & Job Prep | ⏳ Not Started | Full Specialization Project | Resume + Interviews |
 
-*Update this table weekly! Use GitHub Issues for blockers or questions.*
 
 ## Weekly Journal Template
 See [progress-tracker.md](progress-tracker.md) for my reflections: What I learned, challenges, solutions, and goals.
@@ -44,4 +43,3 @@ See [progress-tracker.md](progress-tracker.md) for my reflections: What I learne
 
 Consistency over cramming—let's crush this! 💪 #DataScienceJourney
 
-![Progress Badge](https://img.shields.io/badge/Progress-0%25-brightgreen) 
