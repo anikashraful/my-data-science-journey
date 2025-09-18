@@ -15,7 +15,7 @@ Current progress: [Update with a badge or status]
 ## Progress Tracker
 | Phase | Month | Status | Key Project | Notes |
 |-------|-------|--------|-------------|-------|
-| 1 | 1: Python Fundamentals | ⏳ Not Started | CSV Analyzer | Resources: Coursera, freeCodeCamp |
+| 1 | 1: Python Fundamentals |  Started | CSV Analyzer | Resources: Coursera, freeCodeCamp |
 | 1 | 2: Version Control & DS | ⏳ Not Started | Binary Search Tree | GitHub branches practice |
 | 1 | 3: SQL & Databases | ⏳ Not Started | E-commerce DB | SQLZoo queries |
 | 1 | 4: Math & Stats | ⏳ Not Started | Hypothesis Testing | Khan Academy + SciPy |
