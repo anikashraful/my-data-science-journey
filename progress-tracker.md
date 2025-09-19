@@ -11,7 +11,7 @@ This file logs my weekly progress through the 12-month Data Science Learning Pla
 - **Next Week's Goals**: [Outline objectives for the upcoming week]
 
 ## Weekly Entries
-### Week 1: September 12 - 18, 2025
+### Week 1: September 16 - 18, 2025 [Finished in 2 days]
 - **What I Learned**: [Python basics: variables, data types, loops,
 conditionals]
 - **Challenges Faced**: [ Struggled with loop syntax]
@@ -19,13 +19,19 @@ conditionals]
 - **Questions for Further Exploration**: [How to optimize loop performance?]
 - **Next Week's Goals**: [Data structures: lists, tuples, dictionaries, sets]
 
- ### Week 2: September 18 - 24, 2025
+ ### Week 2: September 18 - 20, 2025 [Finished in 2 days]
 - **What I Learned**: [Data structures: lists, tuples, dictionaries, sets]
 - **Challenges Faced**: [ Struggled with tuples and dic syntax]
 - **Solutions Discovered**: [Watched freeCodeCamp tutorial for clarity]
 - **Questions for Further Exploration**: [How to optimize performance?]
 - **Next Week's Goals**: [Functions, modules, error handling]
 
+ ### Week 2: September 20 - 22, 2025 [Finished in 2 days]
+- **What I Learned**: [Functions, modules, error handling]
+- **Challenges Faced**: [ Struggled with syntax]
+- **Solutions Discovered**: [Watched freeCodeCamp tutorial for clarity]
+- **Questions for Further Exploration**: [How to optimize performance?]
+- **Next Week's Goals**: [NumPy and Pandas basics]
 
 
 ## Overall Progress
