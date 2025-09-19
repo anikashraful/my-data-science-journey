@@ -26,7 +26,7 @@ conditionals]
 - **Questions for Further Exploration**: [How to optimize performance?]
 - **Next Week's Goals**: [Functions, modules, error handling]
 
- ### Week 2: September 20 - 22, 2025 [Finished in 2 days]
+ ### Week 3: September 20 - 22, 2025 [Finished in 2 days]
 - **What I Learned**: [Functions, modules, error handling]
 - **Challenges Faced**: [ Struggled with syntax]
 - **Solutions Discovered**: [Watched freeCodeCamp tutorial for clarity]
