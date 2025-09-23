@@ -33,10 +33,18 @@ conditionals]
 - **Questions for Further Exploration**: [How to optimize performance?]
 - **Next Week's Goals**: [NumPy and Pandas basics]
 
+ ### Week 4: September 22 - 24, 2025 [Finished in 2 days]
+- **What I Learned**: [NumPy and Pandas basics]
+- **Challenges Faced**: [ Struggled with syntax]
+- **Solutions Discovered**: [Watched freeCodeCamp tutorial for clarity]
+- **Questions for Further Exploration**: [How to optimize performance?]
+- **Next Week's Goals**: [Version Control & Data Structures]
+
 
 ## Overall Progress
 - **Current Phase**: Phase 1 - Building Foundations
 - **Current Month**: Month 1 - Python Fundamentals
 - **Completion Status**: [12.5%]
-- **Next Milestone**: Checkpoint Project (Week 4: CSV data analyzer and visualizations)
+- **Next Milestone**: Checkpoint Project (: Build a script that reads a CSV file, performs basic statistical
+analysis, and creates visualizationss)
 
