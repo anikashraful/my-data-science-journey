@@ -33,7 +33,7 @@ conditionals]
 - **Questions for Further Exploration**: [How to optimize performance?]
 - **Next Week's Goals**: [NumPy and Pandas basics]
 
- ### Week 4: September 22 - 24, 2025 [Finished in 2 days]
+ ### Week 4: September 22 - 26, 2025 [Finished in 4 days]
 - **What I Learned**: [NumPy and Pandas basics]
 - **Challenges Faced**: [ Struggled with syntax]
 - **Solutions Discovered**: [Watched freeCodeCamp tutorial for clarity]
