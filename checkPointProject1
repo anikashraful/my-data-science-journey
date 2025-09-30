@@ -1,0 +1,48 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Step 1: Read CSV file
+file_path = "data.csv"   # change to your CSV file path
+df = pd.read_csv(file_path)
+
+print("✅ Data Loaded Successfully!\n")
+
+# Step 2: Display basic info
+print("First 5 Rows:\n", df.head(), "\n")
+print("Dataset Info:\n")
+print(df.info(), "\n")
+print("Summary Statistics:\n", df.describe(), "\n")
+
+# Step 3: Basic statistical analysis
+print("Mean:\n", df.mean(numeric_only=True), "\n")
+print("Median:\n", df.median(numeric_only=True), "\n")
+print("Mode:\n", df.mode(numeric_only=True).iloc[0], "\n")
+print("Standard Deviation:\n", df.std(numeric_only=True), "\n")
+print("Correlation:\n", df.corr(numeric_only=True), "\n")
+
+# Step 4: Data Visualizations
+# Histogram
+df.hist(figsize=(10, 8))
+plt.suptitle("Histograms")
+plt.show()
+
+# Boxplot
+plt.figure(figsize=(10, 6))
+sns.boxplot(data=df.select_dtypes(include="number"))
+plt.title("Boxplot of Numerical Features")
+plt.show()
+
+# Scatter plot (example with first 2 numeric columns if available)
+num_cols = df.select_dtypes(include="number").columns
+if len(num_cols) >= 2:
+    plt.figure(figsize=(8, 6))
+    sns.scatterplot(x=df[num_cols[0]], y=df[num_cols[1]])
+    plt.title(f"Scatter Plot: {num_cols[0]} vs {num_cols[1]}")
+    plt.show()
+
+# Correlation heatmap
+plt.figure(figsize=(10, 8))
+sns.heatmap(df.corr(numeric_only=True), annot=True, cmap="coolwarm", fmt=".2f")
+plt.title("Correlation Heatmap")
+plt.show()
