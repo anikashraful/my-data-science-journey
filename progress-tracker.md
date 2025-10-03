@@ -49,6 +49,14 @@ branches]
 - **Questions for Further Exploration**: [How to optimize performance?]
 - **Next Week's Goals**: [GitHub workflows, pull requests]
 
+### Week 6: September 01 - 03, 2025 [Finished in 2 days]
+- **What I Learned**: [GitHub workflows, pull requests]
+- **Challenges Faced**: [ Struggled with understanding]
+- **Solutions Discovered**: [Watched freeCodeCamp tutorial for clarity]
+- **Questions for Further Exploration**: [How to optimize performance?]
+- **Next Week's Goals**: [GitHub workflows, pull requests]
+
+
 ## Overall Progress
 - **Current Phase**: Phase 1 - Building Foundations
 - **Current Month**: Month 2: Version Control & Data Structures
