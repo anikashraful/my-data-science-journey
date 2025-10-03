@@ -41,7 +41,7 @@ conditionals]
 - **Next Week's Goals**: [Version Control & Data Structures]
 
 
- ### Week 5: September 29 - 01, 2025 [Finished in 2 days]
+ ### Week 5: September 29 - October 01, 2025 [Finished in 2 days]
 - **What I Learned**: [Git basics: setup, commits,
 branches]
 - **Challenges Faced**: [ Struggled with understanding]
@@ -49,12 +49,12 @@ branches]
 - **Questions for Further Exploration**: [How to optimize performance?]
 - **Next Week's Goals**: [GitHub workflows, pull requests]
 
-### Week 6: September 01 - 03, 2025 [Finished in 2 days]
+### Week 6: October 01 - 03, 2025 [Finished in 2 days]
 - **What I Learned**: [GitHub workflows, pull requests]
 - **Challenges Faced**: [ Struggled with understanding]
 - **Solutions Discovered**: [Watched freeCodeCamp tutorial for clarity]
 - **Questions for Further Exploration**: [How to optimize performance?]
-- **Next Week's Goals**: [GitHub workflows, pull requests]
+- **Next Week's Goals**: [ Big O notation, arrays, linked lists ]
 
 
 ## Overall Progress
