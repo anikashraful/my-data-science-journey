@@ -56,6 +56,14 @@ branches]
 - **Questions for Further Exploration**: [How to optimize performance?]
 - **Next Week's Goals**: [ Big O notation, arrays, linked lists ]
 
+### Week 6: October 01 - 03, 2025 [Finished in 2 days]
+- **What I Learned**: [Big O notation, arrays, linked lists]
+- **Challenges Faced**: [ Struggled with understanding]
+- **Solutions Discovered**: [Watched freeCodeCamp tutorial for clarity]
+- **Questions for Further Exploration**: [How to optimize performance?]
+- **Next Week's Goals**: [ Stacks, queues, trees, graphs  ]
+
+
 
 ## Overall Progress
 - **Current Phase**: Phase 1 - Building Foundations
