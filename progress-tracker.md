@@ -56,7 +56,7 @@ branches]
 - **Questions for Further Exploration**: [How to optimize performance?]
 - **Next Week's Goals**: [ Big O notation, arrays, linked lists ]
 
-### Week 6: October 03 - 05, 2025 [Finished in 2 days]
+### Week 7: October 03 - 05, 2025 [Finished in 2 days]
 - **What I Learned**: [Big O notation, arrays, linked lists]
 - **Challenges Faced**: [ Struggled with understanding]
 - **Solutions Discovered**: [Watched freeCodeCamp tutorial for clarity]
@@ -64,11 +64,18 @@ branches]
 - **Next Week's Goals**: [ Stacks, queues, trees, graphs  ]
 
 
+### Week 8: October 06 - 08, 2025 [Finished in 2 days]
+- **What I Learned**: [Stacks, queues, trees, graphs]
+- **Challenges Faced**: [ Struggled with understanding]
+- **Solutions Discovered**: [Watched freeCodeCamp tutorial for clarity]
+- **Questions for Further Exploration**: [How to optimize performance?]
+- **Next Week's Goals**: [SQL basics: SELECT, INSERT, UPDATE,
+DELETE]
+
 
 ## Overall Progress
 - **Current Phase**: Phase 1 - Building Foundations
-- **Current Month**: Month 2: Version Control & Data Structures
+- **Current Month**: Month 3: SQL & Database Concepts
 - **Completion Status**: [12.5%]
-- **Next Milestone**: Checkpoint Project (Create a GitHub repository with multiple branches,
-implementing basic data structures)
-
+- **Next Milestone**: Checkpoint Project : Design and implement a normalized database for a mock
+application with complex queries
