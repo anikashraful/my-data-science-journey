@@ -15,9 +15,9 @@ Current progress:
 ## Progress Tracker
 | Phase | Month | Status | Key Project | Notes |
 |-------|-------|--------|-------------|-------|
-| 1 | 1: Python Fundamentals |  Started | CSV Analyzer | Resources: Coursera, freeCodeCamp |
-| 1 | 2: Version Control & DS | ⏳ Not Started | Binary Search Tree | GitHub branches practice |
-| 1 | 3: SQL & Databases | ⏳ Not Started | E-commerce DB | SQLZoo queries |
+| 1 | 1: Python Fundamentals |  Done | CSV Analyzer | Resources: Coursera, freeCodeCamp |
+| 1 | 2: Version Control & DS | Done | Binary Search Tree | GitHub branches practice |
+| 1 | 3: SQL & Databases | Started | E-commerce DB | SQLZoo queries |
 | 1 | 4: Math & Stats | ⏳ Not Started | Hypothesis Testing | Khan Academy + SciPy |
 | 2 | 5: Data Collection & Viz | ⏳ Not Started | Titanic EDA Dashboard | Pandas + Plotly |
 | 2 | 6-7: ML Fundamentals | ⏳ Not Started | Churn Prediction Pipeline | Scikit-learn + Kaggle |
