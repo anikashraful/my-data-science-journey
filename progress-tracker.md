@@ -73,6 +73,23 @@ branches]
 DELETE]
 
 
+### Week 9: October 08 - 10, 2025 [Finished in 2 days]
+- **What I Learned**: [SQL basics: SELECT, INSERT, UPDATE,
+DELETE]
+- **Challenges Faced**: [ Struggled with understanding]
+- **Solutions Discovered**: [Watched freeCodeCamp tutorial for clarity]
+- **Questions for Further Exploration**: [How to optimize performance?]
+- **Next Week's Goals**: [Filtering, Sorting, Aggregations]
+
+
+### Week 10: October 10 - 12, 2025 [Finished in 2 days]
+- **What I Learned**: [Filtering, Sorting, Aggregations]
+- **Challenges Faced**: [ Struggled with understanding]
+- **Solutions Discovered**: [Watched freeCodeCamp tutorial for clarity]
+- **Questions for Further Exploration**: [How to optimize performance?]
+- **Next Week's Goals**: [Joins and subqueries]
+
+
 ## Overall Progress
 - **Current Phase**: Phase 1 - Building Foundations
 - **Current Month**: Month 3: SQL & Database Concepts
