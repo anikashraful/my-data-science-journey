@@ -90,6 +90,13 @@ DELETE]
 - **Next Week's Goals**: [Joins and subqueries]
 
 
+### Week 11: October 12 - 14, 2025 [Finished in 2 days]
+- **What I Learned**: [Joins and subqueries]
+- **Challenges Faced**: [ Struggled with understanding]
+- **Solutions Discovered**: [Watched freeCodeCamp tutorial for clarity]
+- **Questions for Further Exploration**: [How to optimize performance?]
+- **Next Week's Goals**: [Database design, normalization]
+
 ## Overall Progress
 - **Current Phase**: Phase 1 - Building Foundations
 - **Current Month**: Month 3: SQL & Database Concepts
