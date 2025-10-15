@@ -97,6 +97,14 @@ DELETE]
 - **Questions for Further Exploration**: [How to optimize performance?]
 - **Next Week's Goals**: [Database design, normalization]
 
+
+### Week 12: October 14 - 15, 2025 [Finished in 1 days]
+- **What I Learned**: [Database design, normalization]
+- **Challenges Faced**: [ Struggled with understanding]
+- **Solutions Discovered**: [Watched freeCodeCamp tutorial for clarity]
+- **Questions for Further Exploration**: [How to optimize performance?]
+- **Next Week's Goals**: [Linear algebra basics]
+
 ## Overall Progress
 - **Current Phase**: Phase 1 - Building Foundations
 - **Current Month**: Month 3: SQL & Database Concepts
