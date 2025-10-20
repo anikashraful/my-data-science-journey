@@ -107,7 +107,7 @@ DELETE]
 
 ## Overall Progress
 - **Current Phase**: Phase 1 - Building Foundations
-- **Current Month**: Month 3: SQL & Database Concepts
-- **Completion Status**: [12.5%]
-- **Next Milestone**: Checkpoint Project : Design and implement a normalized database for a mock
-application with complex queries
+- **Current Month**: Month 4: Mathematics & Statistics
+- **Completion Status**: [30%]
+- **Next Milestone**: Checkpoint Project : Statistical analysis of a real-world dataset with hypothesis
+testing and visualization
