@@ -105,6 +105,13 @@ DELETE]
 - **Questions for Further Exploration**: [How to optimize performance?]
 - **Next Week's Goals**: [Linear algebra basics]
 
+### Week 12: October 15 - 21, 2025 [Finished in 6 days]
+- **What I Learned**: [Linear algebra basics]
+- **Challenges Faced**: [ Struggled with understanding]
+- **Solutions Discovered**: [Watched freeCodeCamp tutorial for clarity]
+- **Questions for Further Exploration**: [How to optimize performance?]
+- **Next Week's Goals**: [Linear algebra basics]
+
 ## Overall Progress
 - **Current Phase**: Phase 1 - Building Foundations
 - **Current Month**: Month 4: Mathematics & Statistics
