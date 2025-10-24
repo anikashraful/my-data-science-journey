@@ -110,7 +110,14 @@ DELETE]
 - **Challenges Faced**: [ Struggled with understanding]
 - **Solutions Discovered**: [Watched freeCodeCamp tutorial for clarity]
 - **Questions for Further Exploration**: [How to optimize performance?]
-- **Next Week's Goals**: [Linear algebra basics]
+- **Next Week's Goals**: [Calculus fundamentals]
+
+### Week 12: October 15 - 21, 2025 [Finished in 6 days]
+- **What I Learned**: [Calculus fundamentals]
+- **Challenges Faced**: [ Struggled with understanding]
+- **Solutions Discovered**: [Watched freeCodeCamp tutorial for clarity]
+- **Questions for Further Exploration**: [How to optimize performance?]
+- **Next Week's Goals**: [Probability theory ]
 
 ## Overall Progress
 - **Current Phase**: Phase 1 - Building Foundations
