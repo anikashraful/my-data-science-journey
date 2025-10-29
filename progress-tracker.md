@@ -119,7 +119,7 @@ DELETE]
 - **Questions for Further Exploration**: [How to optimize performance?]
 - **Next Week's Goals**: [Probability theory ]
 
-### Week 15: October 24 - 29, 2025 [Finished in 3 days]
+### Week 15: October 24 - 29, 2025 [Finished in 5 days]
 - **What I Learned**: [Probability theory]
 - **Challenges Faced**: [ Struggled with understanding]
 - **Solutions Discovered**: [Watched freeCodeCamp tutorial for clarity]
