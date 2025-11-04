@@ -18,8 +18,8 @@ Current progress:
 | 1 | 1: Python Fundamentals |  Done | CSV Analyzer | Resources: Coursera, freeCodeCamp |
 | 1 | 2: Version Control & DS | Done | Binary Search Tree | GitHub branches practice |
 | 1 | 3: SQL & Databases | Done | E-commerce DB | SQLZoo queries |
-| 1 | 4: Math & Stats | Started | Hypothesis Testing | Khan Academy + SciPy |
-| 2 | 5: Data Collection & Viz | ⏳ Not Started | Titanic EDA Dashboard | Pandas + Plotly |
+| 1 | 4: Math & Stats | Done | Hypothesis Testing | Khan Academy + SciPy |
+| 2 | 5: Data Collection & Viz | Started | Titanic EDA Dashboard | Pandas + Plotly |
 | 2 | 6-7: ML Fundamentals | ⏳ Not Started | Churn Prediction Pipeline | Scikit-learn + Kaggle |
 | 2 | 8: Portfolio Project | ⏳ Not Started | Web App Deployment | Full ML comparison |
 | 3 | 9-10: Deep Learning | ⏳ Not Started | CNN Image Classifier | TensorFlow/PyTorch |
