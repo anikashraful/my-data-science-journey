@@ -124,11 +124,18 @@ DELETE]
 - **Challenges Faced**: [ Struggled with understanding]
 - **Solutions Discovered**: [Watched freeCodeCamp tutorial for clarity]
 - **Questions for Further Exploration**: [How to optimize performance?]
-- **Next Week's Goals**: [Probability theory ]
+- **Next Week's Goals**: [Statistical analysis]
+
+### Week 16: October 29 - November 04, 2025 [Finished in 7 days]
+- **What I Learned**: [Statistical analysis]
+- **Challenges Faced**: [ Struggled with understanding]
+- **Solutions Discovered**: [Watched freeCodeCamp tutorial for clarity]
+- **Questions for Further Exploration**: [How to optimize performance?]
+- **Next Week's Goals**: [Data cleaning techniques]
 
 ## Overall Progress
-- **Current Phase**: Phase 1 - Building Foundations
-- **Current Month**: Month 4: Mathematics & Statistics
+- **Current Phase**: Phase 2 - Intermediate Skills
+- **Current Month**: Month 5: Data collections and Visualizations
 - **Completion Status**: [30%]
 - **Next Milestone**: Checkpoint Project : Statistical analysis of a real-world dataset with hypothesis
 testing and visualization
