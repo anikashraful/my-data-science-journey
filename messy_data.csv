@@ -1,0 +1,7 @@
+CustomerID,Name,Email,Age,JoinDate,Purchase,Email_Valid
+1.0,Alice,Alice@Example.Com,25.0,2023-01-15,150.5,True
+2.0,Bob,Bob@,30.0,,200.0,False
+2.0,Bob,Bob@Example.Com,30.0,2023-03-10,200.0,True
+3.0,Charlie,Unknown@Email.Com,35.0,2023-04-05,75.0,True
+4.0,Eve,Eve@Example,28.0,2023-06-30,99.99,False
+5.0,Frank,Frank@Example.Com,77.0,2023-07-01,150.5,True
