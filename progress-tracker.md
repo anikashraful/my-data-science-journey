@@ -133,9 +133,15 @@ DELETE]
 - **Questions for Further Exploration**: [How to optimize performance?]
 - **Next Week's Goals**: [Data cleaning techniques]
 
+### Week 17: November 04 - 06, 2025 [Finished in 2 days]
+- **What I Learned**: [Data cleaning Techniques]
+- **Challenges Faced**: [ Struggled with understanding]
+- **Solutions Discovered**: [Watched freeCodeCamp tutorial for clarity]
+- **Questions for Further Exploration**: [How to optimize performance?]
+- **Next Week's Goals**: [Data ransformation]
+
 ## Overall Progress
 - **Current Phase**: Phase 2 - Intermediate Skills
 - **Current Month**: Month 5: Data collections and Visualizations
-- **Completion Status**: [30%]
-- **Next Milestone**: Checkpoint Project : Statistical analysis of a real-world dataset with hypothesis
-testing and visualization
+- **Completion Status**: [40%]
+- **Next Milestone**: Checkpoint Project : End-to-end exploratory data analysis on the titanic dataset with interactive visualisation
