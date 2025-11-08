@@ -140,6 +140,27 @@ DELETE]
 - **Questions for Further Exploration**: [How to optimize performance?]
 - **Next Week's Goals**: [Data ransformation]
 
+### Week 18: November 06 - 08, 2025 [Finished in 2 days]
+- **What I Learned**: [Data ransformation]
+- **Challenges Faced**: [ Struggled with understanding]
+- **Solutions Discovered**: [Watched freeCodeCamp tutorial for clarity]
+- **Questions for Further Exploration**: [How to optimize performance?]
+- **Next Week's Goals**: [Matplotlib & Seaborn]
+
+### Week 19: November 08 - 10, 2025 [Finished in 2 days]
+- **What I Learned**: [Matplotlib & Seaborn]
+- **Challenges Faced**: [ Struggled with understanding]
+- **Solutions Discovered**: [Watched freeCodeCamp tutorial for clarity]
+- **Questions for Further Exploration**: [How to optimize performance?]
+- **Next Week's Goals**: [Interactive visualization with Plotly]
+
+### Week 20: November 10 - 12, 2025 [Finished in 2 days]
+- **What I Learned**: [Interactive visualization with Plotly]
+- **Challenges Faced**: [ Struggled with understanding]
+- **Solutions Discovered**: [Watched freeCodeCamp tutorial for clarity]
+- **Questions for Further Exploration**: [How to optimize performance?]
+- **Next Week's Goals**: [Supervised learning: regression]
+
 ## Overall Progress
 - **Current Phase**: Phase 2 - Intermediate Skills
 - **Current Month**: Month 5: Data collections and Visualizations
