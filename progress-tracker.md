@@ -161,8 +161,15 @@ DELETE]
 - **Questions for Further Exploration**: [How to optimize performance?]
 - **Next Week's Goals**: [Supervised learning: regression]
 
+### Week 21-22: November 12 - 22, 2025 [Finished in 10 days]
+- **What I Learned**: [Supervised learning: Regression]
+- **Challenges Faced**: [ Struggled with understanding]
+- **Solutions Discovered**: [Watched freeCodeCamp tutorial for clarity]
+- **Questions for Further Exploration**: [How to optimize performance?]
+- **Next Week's Goals**: [Supervised learning: classification]
+
 ## Overall Progress
 - **Current Phase**: Phase 2 - Intermediate Skills
-- **Current Month**: Month 5: Data collections and Visualizations
+- **Current Month**: Month 6-7: ML fundamentals
 - **Completion Status**: [40%]
 - **Next Milestone**: Checkpoint Project : End-to-end exploratory data analysis on the titanic dataset with interactive visualisation
