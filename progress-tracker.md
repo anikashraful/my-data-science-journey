@@ -168,6 +168,13 @@ DELETE]
 - **Questions for Further Exploration**: [How to optimize performance?]
 - **Next Week's Goals**: [Supervised learning: classification]
 
+### Week 21-22: November 22 - December 02, 2025 [Finished in 10 days]
+- **What I Learned**: [Supervised learning: classification]
+- **Challenges Faced**: [ Struggled with understanding]
+- **Solutions Discovered**: [Watched freeCodeCamp tutorial for clarity]
+- **Questions for Further Exploration**: [How to optimize performance?]
+- **Next Week's Goals**: [UnSupervised learning]
+
 ## Overall Progress
 - **Current Phase**: Phase 2 - Intermediate Skills
 - **Current Month**: Month 6-7: ML fundamentals
