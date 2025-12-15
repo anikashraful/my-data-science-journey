@@ -175,6 +175,13 @@ DELETE]
 - **Questions for Further Exploration**: [How to optimize performance?]
 - **Next Week's Goals**: [UnSupervised learning]
 
+### Week 25-26: December 02 - 15, 2025 [Finished in 15 days]
+- **What I Learned**: [UnSupervised learning]
+- **Challenges Faced**: [ Struggled with understanding]
+- **Solutions Discovered**: [Watched freeCodeCamp tutorial for clarity]
+- **Questions for Further Exploration**: [How to optimize performance?]
+- **Next Week's Goals**: [Model evaluation & hyper-parameter tuning]
+
 ## Overall Progress
 - **Current Phase**: Phase 2 - Intermediate Skills
 - **Current Month**: Month 6-7: ML fundamentals
