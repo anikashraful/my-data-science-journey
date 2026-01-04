@@ -182,6 +182,14 @@ DELETE]
 - **Questions for Further Exploration**: [How to optimize performance?]
 - **Next Week's Goals**: [Model evaluation & hyper-parameter tuning]
 
+### Week 27-28: December 15 - 31, 2025 [Finished in 15 days]
+- **What I Learned**: [Model evaluation & hyper-parameter tuning]
+- **Challenges Faced**: [ Struggled with understanding]
+- **Solutions Discovered**: [Watched freeCodeCamp tutorial for clarity]
+- **Questions for Further Exploration**: [How to optimize performance?]
+- **Next Week's Goals**: [: First Portfolio Project]
+
+
 ## Overall Progress
 - **Current Phase**: Phase 2 - Intermediate Skills
 - **Current Month**: Month 6-7: ML fundamentals
