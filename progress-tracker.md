@@ -187,11 +187,18 @@ DELETE]
 - **Challenges Faced**: [ Struggled with understanding]
 - **Solutions Discovered**: [Watched freeCodeCamp tutorial for clarity]
 - **Questions for Further Exploration**: [How to optimize performance?]
-- **Next Week's Goals**: [: First Portfolio Project]
+- **Next Week's Goals**: [First Portfolio Project]
+
+### Week 29-32: December 31, 2025 - 31 January, 2026 [Finished in 31 days]
+- **What I Learned**: [irst Portfolio Project]
+- **Challenges Faced**: [ Struggled with understanding]
+- **Solutions Discovered**: [Watched freeCodeCamp tutorial for clarity]
+- **Questions for Further Exploration**: [How to optimize performance?]
+- **Next Week's Goals**: [Deep Learning]
 
 
 ## Overall Progress
-- **Current Phase**: Phase 2 - Intermediate Skills
-- **Current Month**: Month 6-7: ML fundamentals
-- **Completion Status**: [40%]
-- **Next Milestone**: Checkpoint Project : End-to-end exploratory data analysis on the titanic dataset with interactive visualisation
+- **Current Phase**: Phase 3 - Advanced Topics
+- **Current Month**: Month 9-10: Deep Learning
+- **Completion Status**: [70%]
+- **Next Milestone**: Checkpoint Project :  Build an image classification system or NLP application using deep learning
