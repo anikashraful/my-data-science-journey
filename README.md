@@ -21,8 +21,8 @@ Current progress:
 | 1 | 4: Math & Stats | Done | Hypothesis Testing | Khan Academy + SciPy |
 | 2 | 5: Data Collection & Viz | Done | Titanic EDA Dashboard | Pandas + Plotly |
 | 2 | 6-7: ML Fundamentals | Done | Churn Prediction Pipeline | Scikit-learn + Kaggle |
-| 2 | 8: Portfolio Project | Started | Web App Deployment | Full ML comparison |
-| 3 | 9-10: Deep Learning | ⏳ Not Started | CNN Image Classifier | TensorFlow/PyTorch |
+| 2 | 8: Portfolio Project | Done | Web App Deployment | Full ML comparison |
+| 3 | 9-10: Deep Learning | Started | CNN Image Classifier | TensorFlow/PyTorch |
 | 3 | 11: Specialization | ⏳ Not Started | Sentiment Analyzer (NLP track) | BERT fine-tuning |
 | 3 | 12: Capstone & Job Prep | ⏳ Not Started | Full Specialization Project | Resume + Interviews |
 
