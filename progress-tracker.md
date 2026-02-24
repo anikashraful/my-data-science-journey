@@ -190,12 +190,25 @@ DELETE]
 - **Next Week's Goals**: [First Portfolio Project]
 
 ### Week 29-32: December 31, 2025 - 31 January, 2026 [Finished in 31 days]
-- **What I Learned**: [irst Portfolio Project]
+- **What I Learned**: [first Portfolio Project]
 - **Challenges Faced**: [ Struggled with understanding]
 - **Solutions Discovered**: [Watched freeCodeCamp tutorial for clarity]
 - **Questions for Further Exploration**: [How to optimize performance?]
 - **Next Week's Goals**: [Deep Learning]
 
+### Week 33-34: 1 February, 2025 - 14 February, 2026 [Finished in 14 days]
+- **What I Learned**: [Neural network fundamentals]
+- **Challenges Faced**: [ Struggled with understanding]
+- **Solutions Discovered**: [Watched freeCodeCamp tutorial for clarity]
+- **Questions for Further Exploration**: [How to optimize performance?]
+- **Next Week's Goals**: [Convolutional Neural Networks]
+
+### Week 35-36: 14 February, 2025 - 28 February, 2026 [Finished in 14 days]
+- **What I Learned**: [Convolutional Neural Networks]
+- **Challenges Faced**: [ Struggled with understanding]
+- **Solutions Discovered**: [Watched freeCodeCamp tutorial for clarity]
+- **Questions for Further Exploration**: [How to optimize performance?]
+- **Next Week's Goals**: [Recurrent Neural Networks]
 
 ## Overall Progress
 - **Current Phase**: Phase 3 - Advanced Topics
