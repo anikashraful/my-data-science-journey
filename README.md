@@ -10,7 +10,7 @@ Welcome! This repo tracks my 12-month journey to become a data scientist, follow
   - **Phase 2 (Months 5-8)**: Intermediate (Data Viz, ML Basics, Portfolio Project)
   - **Phase 3 (Months 9-12)**: Advanced (DL, Specialization, Capstone)
 
-Current progress: 
+Current progress:
 
 ## Progress Tracker
 | Phase | Month | Status | Key Project | Notes |
